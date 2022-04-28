@@ -2,6 +2,9 @@
 
 Mise en oeuvre de la sécurisation d'une application avec une JWT.
 
+## Dépendances
+- java : jdk11
+
 ## Usage
 ### POST - S'authentifier
 
